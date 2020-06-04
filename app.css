@@ -15,7 +15,7 @@ h2{
     text-decoration: none;
     text-align: center;
     color: #ff1122; /*màu chữ rgba(255,17,34,0.5) */
-    /*background-color: ; !*màu nền phía sau*!*/
+    background-color: beige ; /*màu nền phía sau*/
     /*border-bottom: 1px solid #ff112290;*/
     /*border-top: 1px solid #ff112290 ;*/
 }
