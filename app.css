@@ -1,9 +1,10 @@
 
 body{
-    background-image: url("200529181106-08-vietnam-corona-6521-9572-1590816094.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    /*background-image: url("200529181106-08-vietnam-corona-6521-9572-1590816094.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-position: center;*/
+    /*background-size: cover;*/
+    text-align: center;
 }
 h1 {
     color: rgb(254, 17, 34);
