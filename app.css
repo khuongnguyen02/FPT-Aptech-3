@@ -1,22 +1,21 @@
 
 body{
-    /*background-image: url("200529181106-08-vietnam-corona-6521-9572-1590816094.png");*/
-    /*background-repeat: no-repeat;*/
-    /*background-position: center;*/
-    /*background-size: cover;*/
+    background-image: url("imgs 2/shutterstock_273508070.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     text-align: center;
 }
-ul{
-    text-align: center;
-}
-
-h1 {
-    color: rgb(254, 17, 34);
+h1{
     font-size: 100px;
-    font-family: Arial;
-    font-width: 400; /*Do dam nhat*/
-    line-height: 1.5;
+    font-family: 'Be Vietnam';
+    font-weight: 400;/*100 200 300 400 (normal) 500 600 700(bold) 800 900 */
+    line-height: 200px;
     text-decoration: none;
-    background-color: beige;
-
+    text-align: center;
+    color: #ff1122; /*màu chữ rgba(255,17,34,0.5) */
+    background-color: aqua; /*màu nền phía sau*/
+    border-bottom: 1px solid #ff112290;
+    border-top: 1px solid #ff112290 ;
 }
+
