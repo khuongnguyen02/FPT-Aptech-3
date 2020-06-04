@@ -1,0 +1,14 @@
+
+body{
+    background-image: url("200529181106-08-vietnam-corona-6521-9572-1590816094.png");
+}
+h1 {
+    color: rgb(254, 17, 34);
+    font-size: 100px;
+    font-family: Arial;
+    font-width: 400; /*Do dam nhat*/
+    line-height: 1.5;
+    text-decoration: none;
+    background-color: beige;
+
+}
